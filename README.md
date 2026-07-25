@@ -1,8 +1,8 @@
-# fidus
+# Fidus
 
 A new Flutter project.
 
-## Getting Started
+## Suprise guys: coming soon
 
 This project is a starting point for a Flutter application.
 
